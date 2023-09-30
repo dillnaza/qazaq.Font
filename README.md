@@ -31,4 +31,4 @@ QazaqFont - это проект, предоставляющий возможно
 ## Contacts
 
 - gmail: dilnazbaidakhanova@gmail.com
-- telegram: @dillnazzza**
+- telegram: @dillnazzza
